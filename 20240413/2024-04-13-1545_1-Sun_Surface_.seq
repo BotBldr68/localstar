@@ -1,0 +1,7 @@
+#Siril sequence file. Contains list of images, selection, registration data and statistics
+#S 'sequence_name' start_index nb_images nb_selected fixed_len reference_image version variable_size fz_flag
+S '2024-04-13-1545_1-Sun_Surface_' 50 2 2 0 0 4 0 0
+L 1
+I 50 1
+I 67 1
+M0-0 307200 -1 -999999 -999999 -999999 -999999 -999999 -999999 -999999 -999999 22887 61388 65535 -999999
